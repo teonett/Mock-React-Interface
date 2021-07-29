@@ -1,6 +1,10 @@
 ### Sobre o Projeto
 A aplicação consistem na leitura do arquivo "data.json", cujo resultado seja exibido como treeview.
 
+<img src="https://github.com/teonett/Mock-React-Interface/blob/main/img/01-Inicio.png">
+<img src="https://github.com/teonett/Mock-React-Interface/blob/main/img/02-Lista.png">
+<img src="https://github.com/teonett/Mock-React-Interface/blob/main/img/03-Sobre.png">
+
 ### Ferramentas Utilizadas
 Para a construção foi utilizado:
 
