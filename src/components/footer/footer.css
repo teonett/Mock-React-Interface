@@ -1,0 +1,25 @@
+.app-footer {
+    color: #ffffff;
+    background: #006bb3;
+    text-align: right;
+}
+
+.app-footer__message {
+    color: #ffffff;
+    font-family: sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer {
+    position: fixed;
+    bottom:0px;
+    color: #ffffff;
+    background-color: #006bb3;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 0px;
+    text-align: center;
+    font-size: large;
+}
